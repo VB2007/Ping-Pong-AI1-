@@ -1,2 +1,9 @@
-# Ping-Pong-AI1-
-First version of AI insn't very hard))
+Hello!
+
+This is the ping pong with an AI, but it's not very clever))
+
+Controls:
+  ↑ - up
+  ↓ - down
+  
+Stay DETERMINED!
