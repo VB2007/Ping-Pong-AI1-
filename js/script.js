@@ -109,7 +109,7 @@ function loop() {
         rightPaddle.dy = -rightPaddle.dy
     }
     if (rightPaddle.y >= canvas.height - grid - paddleHeight*2) {
-        rightPaddle.dy = -rightPaddle.d
+        rightPaddle.dy = -rightPaddle.dy
         y
     }
 
